@@ -8,9 +8,18 @@ This project to move robot arm using control panel interface
   - Save angles
   - Run robot
 
+## Languages:
+  - Front End
+    - HTML5
+    - CSS
+    - JS
+  - Back End
+    - PHP
 
 ## Requirements:
   - XAMPP
+    - Apache
+    - MySQL
 
 ## Configuration:
   - Stop all programs using `port 80` to run Apache: 
