@@ -1,6 +1,6 @@
 # Control_Panel
 
-This project to move robot arm using control panel interface
+This project to run & set robot arm motors by using control panel interface
 
 
 ## Steps:
